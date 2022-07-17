@@ -1,4 +1,4 @@
-# mylogin Local Plugin
+# mylogin Local Plugin -> Moodle 4 - PHP 7.4
 Το συγκεκριμένο plugin κάνει override το standart login plugin του moodle.
 
 Εγκατάσταση :
